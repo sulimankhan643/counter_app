@@ -1,16 +1,30 @@
-# counter_app
+# Counter App 🚀
 
-A new Flutter project.
+This is a simple **Flutter Counter App** created as part of my internship and practice tasks.  
+The app demonstrates the use of **StatefulWidget** in Flutter and basic state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Increment counter with a button  
+- Display updated counter value in real-time  
+- Clean and simple UI using Flutter Material Widgets  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter  
+- Dart  
+- Material Design  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📅 Internship Details
+Internship: DevelopersHub Corporation
+Week: 2
+Task: Basic State Management with setState()
+
+Author
+Name: Suliman Khan
+DHC : 16
+Flutter Developer
+
+![Counter App Screenshot](pictures/counterApp.png)
