@@ -27,4 +27,4 @@ Name: Suliman Khan
 DHC : 16
 Flutter Developer
 
-![Counter App Screenshot](pictures/counterApp.png)
+![Counter App Screenshot](pictures/counterApp.jpeg)
